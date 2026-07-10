@@ -1,0 +1,18 @@
+# Credentials: never commit Google Cloud service account keys
+*.json
+
+# Generated audio intermediates
+*.flac
+*.wav
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+desktop.ini
+Thumbs.db
